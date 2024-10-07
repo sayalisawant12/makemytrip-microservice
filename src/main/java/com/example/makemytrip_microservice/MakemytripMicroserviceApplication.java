@@ -10,5 +10,4 @@ public class MakemytripMicroserviceApplication {
 		SpringApplication.run(MakemytripMicroserviceApplication.class, args);
 	}
 
-
 }
